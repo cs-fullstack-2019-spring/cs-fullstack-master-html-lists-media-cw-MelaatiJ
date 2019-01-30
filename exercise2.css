@@ -1,0 +1,38 @@
+li
+{
+    background: url("img/cake.PNG") 0 50% no-repeat;
+    list-style-type: none;
+    padding-left: 50px;                    /*making my list to have the cake as bullets*/
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    position: relative;
+}
+
+
+h1
+{
+    border: 10px solid gray;
+    background-color: gray;
+    color: red;
+    text-align: center;                     /*the header lets party in the middle with a background*/
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+body
+{
+    background-color:yellow;
+}
+
+
+img
+{
+    margin-left: 60%;
+    position: absolute;
+}
+
+iframe
+{
+    width: 100%;
+}
