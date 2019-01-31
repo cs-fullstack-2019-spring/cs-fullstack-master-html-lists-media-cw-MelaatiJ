@@ -18,3 +18,15 @@ ul
 {
     list-style-type: disc;          /* this changes the font type to a closed circle*/
 }
+
+.nobullet{
+    list-style-type: none;
+}
+
+#emli {
+	font-style: italic;
+}
+
+#emstr {
+	font-weight: bold;
+}
